@@ -1,0 +1,129 @@
+{
+  "laws": [
+    {
+      "id": "v-001",
+      "violation": "Drunken Driving",
+      "fine": "₹10,000 and/or 6 months imprisonment",
+      "section": "Section 185",
+      "details": "Driving by a person under the influence of alcohol or drugs exceeding 30mg per 100ml of blood.",
+      "states": ["All India"],
+      "recommendation": "Never drink and drive. Use a designated driver or cab service."
+    },
+    {
+      "id": "v-002",
+      "violation": "Over Speeding (LMV)",
+      "fine": "₹1,000 - ₹2,000",
+      "section": "Section 183(1)",
+      "details": "Exceeding the speed limit prescribed for Light Motor Vehicles.",
+      "states": ["All India"],
+      "recommendation": "Always adhere to posted speed limits. Speed kills."
+    },
+    {
+      "id": "v-003",
+      "violation": "Over Speeding (Medium/Heavy)",
+      "fine": "₹2,000 - ₹4,000",
+      "section": "Section 183(2)",
+      "details": "Exceeding the speed limit prescribed for Medium or Heavy Vehicles.",
+      "states": ["All India"],
+      "recommendation": "Maintain safe speeds, especially with heavier loads."
+    },
+    {
+      "id": "v-004",
+      "violation": "Driving Without License",
+      "fine": "₹5,000",
+      "section": "Section 181",
+      "details": "Driving a vehicle without a valid driving license.",
+      "states": ["All India"],
+      "recommendation": "Always carry your original driving license or a digital copy on mParivahan/DigiLocker."
+    },
+    {
+      "id": "v-005",
+      "violation": "Dangerous Driving",
+      "fine": "₹1,000 - ₹5,000 and/or 6 months to 1 year imprisonment",
+      "section": "Section 184",
+      "details": "Driving in a manner which is dangerous to the public (e.g., jumping red lights, zig-zag driving).",
+      "states": ["All India"],
+      "recommendation": "Drive predictably and follow all traffic signals."
+    },
+    {
+      "id": "v-006",
+      "violation": "Using Mobile Phone while Driving",
+      "fine": "₹1,000 - ₹5,000",
+      "section": "Section 184(c)",
+      "details": "Using a handheld communications device while driving.",
+      "states": ["All India"],
+      "recommendation": "Use hands-free systems only for emergencies, or pull over safely before using your phone."
+    },
+    {
+      "id": "v-007",
+      "violation": "Not Wearing Helmet",
+      "fine": "₹1,000 and Disqualification of license for 3 months",
+      "section": "Section 194D",
+      "details": "Driving or riding a two-wheeler without a protective headgear.",
+      "states": ["All India"],
+      "recommendation": "Always wear an ISI-marked helmet and strap it properly."
+    },
+    {
+      "id": "v-008",
+      "violation": "Not Wearing Seat Belt",
+      "fine": "₹1,000",
+      "section": "Section 194B(1)",
+      "details": "Driving without wearing a safety belt or carrying passengers not wearing seat belts.",
+      "states": ["All India"],
+      "recommendation": "Seat belts save lives. Ensure every passenger is buckled up."
+    },
+    {
+      "id": "v-009",
+      "violation": "Triple Riding on Two-Wheeler",
+      "fine": "₹1,000 and Disqualification of license for 3 months",
+      "section": "Section 194C",
+      "details": "Riding a two-wheeler with more than two persons (including the driver).",
+      "states": ["All India"],
+      "recommendation": "Two-wheelers are designed for two people only. Overloading affects balance."
+    },
+    {
+      "id": "v-010",
+      "violation": "Invalid Insurance",
+      "fine": "₹2,000 and/or 3 months imprisonment",
+      "section": "Section 196",
+      "details": "Driving a vehicle without a valid third-party insurance.",
+      "states": ["All India"],
+      "recommendation": "Renew your insurance on time to avoid heavy fines and legal liabilities."
+    },
+    {
+      "id": "v-011",
+      "violation": "Racing and Speed Trials",
+      "fine": "₹5,000 and/or 1 month imprisonment",
+      "section": "Section 189",
+      "details": "Participating in or allowing an unauthorized race or speed trial on public roads.",
+      "states": ["All India"],
+      "recommendation": "Roads are not race tracks. Keep speed trials to authorized circuits."
+    },
+    {
+      "id": "v-012",
+      "violation": "Obstruction to Emergency Vehicles",
+      "fine": "₹10,000 and/or 6 months imprisonment",
+      "section": "Section 194E",
+      "details": "Failure to draw to the side of the road to allow free passage to ambulances, fire tenders, etc.",
+      "states": ["All India"],
+      "recommendation": "Always prioritize emergency vehicles. A few seconds can save a life."
+    },
+    {
+      "id": "v-013",
+      "violation": "Juvenile Offenses",
+      "fine": "₹25,000 and 3 years imprisonment for Guardian/Owner",
+      "section": "Section 199A",
+      "details": "Offenses committed by juveniles. Registration of vehicle canceled for 12 months. Juvenile ineligible for license till age 25.",
+      "states": ["All India"],
+      "recommendation": "Ensure minors do not drive. It carries extreme penalties for the guardian."
+    }
+  ],
+  "states": [
+    "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhattisgarh", "Goa", "Gujarat", 
+    "Haryana", "Himachal Pradesh", "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh", 
+    "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha", "Punjab", 
+    "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh", 
+    "Uttarakhand", "West Bengal", "Delhi", "Chandigarh", "Puducherry"
+  ],
+  "vehicle_types": ["Two-Wheeler", "Four-Wheeler (LMV)", "Heavy Vehicle (HMV)", "Commercial Vehicle"]
+}
